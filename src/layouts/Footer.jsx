@@ -19,7 +19,9 @@ const Footer = () => {
         </div>
 
         <div className="flex flex-col h-full  text-white justify-center md:gap-5">
-          <h1 className="text-8xl font-500 font-blackletter">Sheryham.</h1>
+          <h1 className="md:text-8xl text-4xl font-500 font-blackletter">
+            Sheryham.
+          </h1>
           <p className="text-sm">
             Established <span className="font-serif">MMXXIV</span>
           </p>
